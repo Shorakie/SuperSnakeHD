@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1580528560 source:g:\amin\ssnakehd\main.c
-	<stdio.h>
-	<stdlib.h>
-	<unistd.h>
-	<windows.h>
-
