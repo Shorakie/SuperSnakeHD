@@ -1018,3 +1018,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Codeblocks
+*.cbp
+*.depend
+*.layout
